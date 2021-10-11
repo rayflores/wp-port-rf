@@ -23,4 +23,4 @@
 * [Nexus Ammo](https://nexusammo.com/) - Theme Customizations / Custom Plugins ( Search Serials ) 
 * [Sac Firearms](https://sacfirearms.com/) - - Theme Customizations / Custom Plugins ( Search Serials )
 * [Powerwizard](https://powerwizard.com/) - - Theme Customizations / Custom Plugins / WP API ( WooCommerce / eCommerce )
-* [iterate.ai](https://iterate.ai) - - React/Next JS full custom site build from PHP private community site. ( two large clients )  
+* [iterate.ai](https://iterate.ai) - - React/Next JS full custom site build from PHP private community site. ( two large clients [circlek](https://pickup.circlek.com/) & [pamperedchef](https://table.pamperedchef.com/)
