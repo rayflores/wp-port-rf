@@ -16,7 +16,6 @@
 
 ### FULL/PARTIAL BUILDS
 * [Urban Coop Company](https://urbancoopcompany.com/) - eCommerce customizations
-* [Bed Rover](https://bedrover.com/) - eCommerce customizations
 * [BuiltInz](https://builtinz.com/) - custom theme
 * [Loon Outdoors](https://loonoutdoors.com/) - fulfillment API integration
 * [Armalite](https://www.armalite.com/) - eCommerce customizations
