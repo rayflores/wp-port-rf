@@ -15,7 +15,8 @@
 
 
 ### FULL/PARTIAL BUILDS
-* [Urban Coop Company](https://urbancoopcompany.com/) - eCommerce customizations
+* [Full Custom Events/Calendar](https://onedaytona.com/events/) - JS/PHP customizations
+* [Urban Coop Company](https://roostandroot.com/) - eCommerce customizations
 * [BuiltInz](https://builtinz.com/) - custom theme
 * [Loon Outdoors](https://loonoutdoors.com/) - fulfillment API integration
 * [Armalite](https://www.armalite.com/) - eCommerce customizations
