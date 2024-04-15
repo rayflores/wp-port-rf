@@ -1,5 +1,6 @@
 # Ray Flores Portfolio
-[Check out my personal site](https://rayflores.com/)
+[Check out my personal site](https://rayflores.com/) - as of April 12, 2024 site is receiving a much needed makeover :) 
+
 #### [https://github.com/rayflores](https://github.com/rayflores) - profile
 ## Links to Gists and Repos that I have had a hand or two in :) 
 
