@@ -16,13 +16,14 @@
 
 
 ### FULL/PARTIAL BUILDS
+* [Education Site](https://online.maryville.edu) - Custom Theme and Custom Plugins - WPVIP
+* [Custom ACF Blocks and Bootstrap theme](https://devpub.wattbridge.info/) - Custom Theme and Custom Blocks - ACF
+* 
 * [Full Custom Events/Calendar](https://onedaytona.com/events/) - JS/PHP customizations
 * [Santaforaday](https://santaforaday.org/) - eCommerce customizations
 * [Urban Coop Company](https://roostandroot.com/) - eCommerce customizations
-* [BuiltInz](https://builtinz.com/) - custom theme
 * [Loon Outdoors](https://loonoutdoors.com/) - fulfillment API integration
 * [Armalite](https://www.armalite.com/) - eCommerce customizations
-* [Nexus Ammo](https://nexusammo.com/) - Theme Customizations / Custom Plugins ( Search Serials ) 
-* [Sac Firearms](https://sacfirearms.com/) - - Theme Customizations / Custom Plugins ( Search Serials )
+* [Sac Firearms](https://sacfirearms.com/) - - Theme Customizations - Branding Page Lander
 * [Powerwizard](https://powerwizard.com/) - - Theme Customizations / Custom Plugins / WP API ( WooCommerce / eCommerce )
 * [iterate.ai](https://iterate.ai) - - React/Next JS full custom site build from PHP private community site. ( two large clients [circlek](https://pickup.circlek.com/) & [pamperedchef](https://table.pamperedchef.com/) )
